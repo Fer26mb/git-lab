@@ -2,3 +2,5 @@ enredados
 cenicienta 
 el cadaver de la novia
 el extraño mundo de jack 
+
+bien o mal desde github
